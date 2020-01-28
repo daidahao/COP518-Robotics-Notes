@@ -22,7 +22,7 @@ Mapping of sensory inputs to a pattern of motor actions that are used to achieve
 
 a combination of stimuli that elicit a specific, perhaps complex, response to a particular biological situation
 
-<img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-irms.png" alt="image-20200128211416837" style="zoom:50%;" />
+<img src="figures/02-irms.png" alt="image-20200128211416837" style="zoom:50%;" />
 
 
 
@@ -46,9 +46,9 @@ Way of expressing basic unit of activity
 
 - Computational process by which it achieves the activity (algorithm)
 
-<img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-schema-theory.png" alt="image-20200128212146527" style="zoom:40%;" />
+<img src="figures/02-schema-theory.png" alt="image-20200128212146527" style="zoom:40%;" />
 
-<img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-schema-example.png" alt="image-20200128215610865" style="zoom:50%;" />
+<img src="figures/02-schema-example.png" alt="image-20200128215610865" style="zoom:50%;" />
 
 
 
@@ -72,15 +72,15 @@ emergence is a property of a collection of interacting components (here, behavio
 
 - Fixed prioritization
 
-  <img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-prioritization.png" alt="image-20200128215315745" style="zoom: 33%;" />
+  <img src="figures/02-prioritization.png" alt="image-20200128215315745" style="zoom: 33%;" />
 
 - Action selection
 
-  <img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-selection.png" alt="image-20200128215420226" style="zoom:33%;" />
+  <img src="figures/02-selection.png" alt="image-20200128215420226" style="zoom:33%;" />
 
 - Vote generation
 
-  <img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-vote.png" alt="image-20200128215515585" style="zoom:33%;" />
+  <img src="figures/02-vote.png" alt="image-20200128215515585" style="zoom:33%;" />
 
 
 
@@ -88,21 +88,21 @@ emergence is a property of a collection of interacting components (here, behavio
 
 - Vector addition using potential fields
 
-  <img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-vector.png" alt="image-20200128215730104" style="zoom:33%;" />
+  <img src="figures/02-vector.png" alt="image-20200128215730104" style="zoom:33%;" />
 
 
 
 ### Finite State Acceptor Diagrams
 
-<img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-fsa.png" alt="image-20200128220444591" style="zoom:33%;" />
+<img src="figures/02-fsa.png" alt="image-20200128220444591" style="zoom:33%;" />
 
-<img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-fsa-example.png" alt="image-20200128220511107" style="zoom:50%;" />
+<img src="figures/02-fsa-example.png" alt="image-20200128220511107" style="zoom:50%;" />
 
 
 
-<img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-fsa-cola.png" alt="image-20200128220549087" style="zoom:50%;" />
+<img src="figures/02-fsa-cola.png" alt="image-20200128220549087" style="zoom:50%;" />
 
-<img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-fsa-cola-table.png" alt="image-20200128220610980" style="zoom:50%;" />
+<img src="figures/02-fsa-cola-table.png" alt="image-20200128220610980" style="zoom:50%;" />
 
 
 
@@ -118,7 +118,7 @@ Simplification:
 
 - Only trash bin is blue object in the environment
 
-<img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/02-subsumption.png" alt="image-20200128215944624" style="zoom:50%;" />
+<img src="figures/02-subsumption.png" alt="image-20200128215944624" style="zoom:50%;" />
 
 
 
@@ -160,7 +160,7 @@ Simplification:
 
 ### Common fields in behaviours
 
-<img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/03-potential-fields.png" alt="image-20200128221257123" style="zoom:50%;" />
+<img src="figures/03-potential-fields.png" alt="image-20200128221257123" style="zoom:50%;" />
 
 a: uniform   b: perpendicular   
 
@@ -190,7 +190,7 @@ c: attraction   d: repulsion  e: tangential
 
 ### Steps in Designing a Reactive Behavioural System
 
-<img src="/Users/dahao/pmlb/robotics/COP518-Robotics-Notes/figures/03-steps.png" alt="image-20200128230308282" style="zoom:50%;" />
+<img src="figures/03-steps.png" alt="image-20200128230308282" style="zoom:50%;" />
 
 
 
