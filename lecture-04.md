@@ -42,10 +42,6 @@ Highly specialized perceptual algorithms extract necessary information and no mo
 
 
 
-•Affordance
-
-
-
 ### Multiple Sensor Combinations:
 
 #### Redundant

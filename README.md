@@ -12,6 +12,10 @@ Loughborough University
 
 [Lecture 4: Sensing / Perception](lecture-04.md)
 
+[Lecture 5: Hybrid Deliberative/Reactive Systems](lecture-05.md)
+
+
+
 
 
 © Zhihao DAI 2020
