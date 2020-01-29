@@ -110,6 +110,20 @@ emergence is a property of a collection of interacting components (here, behavio
 
 #### Subsumption
 
+- Modules should be grouped into *layers of competence*
+
+- Modules in a higher level can override or *subsume* behaviors in the next lower level
+
+- **Suppression**: substitute input going to a module
+
+- **Inhibit**: turn off output from a module
+
+- **No internal state** in the sense of a local, persistent representation similar to a world model. 
+
+- Architecture should be *taskable*: accomplished by a higher level turning on/off lower layers
+
+
+
 Task: recycling coca-cola cans
 
 Simplification:

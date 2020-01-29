@@ -10,7 +10,7 @@ Loughborough University
 
 [Lecture 2 & 3: Behaviour-Based Robotics](lecture-02.md)
 
-
+[Lecture 4: Sensing / Perception](lecture-04.md)
 
 
 
