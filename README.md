@@ -20,6 +20,10 @@ Loughborough University
 
 [Lecture 8: Path Planning Based on Bug Algorithms](lecture-08.md)
 
+[Lecture 9: Multi-robot systems](lecture-09.md)
+
+
+
 
 
 © Zhihao DAI 2020
