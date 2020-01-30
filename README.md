@@ -14,7 +14,11 @@ Loughborough University
 
 [Lecture 5: Hybrid Deliberative/Reactive Systems](lecture-05.md)
 
+[Lecture 6: Topological Path Planning](lecture-06.md)
 
+[Lecture 7: Metric Path Planning](lecture-07.md)
+
+[Lecture 8: Path Planning Based on Bug Algorithms](lecture-08.md)
 
 
 
