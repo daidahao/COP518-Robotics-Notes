@@ -1,13 +1,5 @@
 ## Lecture 7: Metric Path Planning
 
-
-
-•Two representative metric path planning algorithms:
-
-– A* and wavefront-based path planning
-
-
-
 ### Configuration Space (CSpace)
 
 > World Space: physical space robots and obstacles exist in.
