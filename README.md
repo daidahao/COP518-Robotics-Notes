@@ -22,6 +22,8 @@ Loughborough University
 
 [Lecture 9: Multi-robot systems](lecture-09.md)
 
+[Lecture 10: Robot Learning](lecture-10.md)
+
 
 
 
