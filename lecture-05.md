@@ -61,9 +61,9 @@ The robot uses all the available sensory information and stored internal knowled
 
 - **Sequencer**: agent that generates set of behaviors to use in order to accomplish the subtask, and determines any sequences and activation conditions
 
-- **Resource manager**: allocates resources to behaviors, including selecting from libraries of schemas (e.g., determining whether to use sonar or laser in a perceptual schema, depending upon the task)
+- **Resource manager (Schema Controller)**: allocates resources to behaviors, including selecting from libraries of schemas (e.g., determining whether to use sonar or laser in a perceptual schema, depending upon the task)
 
-- **Cartographer**: responsible for creating, storing, and maintaining a map or spatial information, plus methods for accessing data. Contains global world model and knowledge representation.
+- **Cartographer (Spatial Reasoner)**: responsible for creating, storing, and maintaining a map or spatial information, plus methods for accessing data. Contains global world model and knowledge representation.
 
 - **Mission Planner**: interacts with human, operationalizes commands into robot terms, and constructs mission plan.
 

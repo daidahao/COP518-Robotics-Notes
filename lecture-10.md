@@ -31,6 +31,8 @@ Learning produces changes within an agent that over time enable it to perform mo
 - A value
   - Value of a state (or, state-action pair) is the total expected reward.
 
+
+
 #### Q-Learning Algorithm
 
 Q-learning, two action selection methods, understand the calculation process of one step Q-learning, 
